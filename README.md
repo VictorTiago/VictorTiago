@@ -3,7 +3,7 @@
 **`Desenvolvedor Backend`**
 
 Sou estudante de Ciência da Computação na Escola Superior Dom Helder Câmara, atualmente no 3º período, com foco em me desenvolver como desenvolvedor backend.
-Tenho me dedicado aos estudos de JavaScript, Node.js e Java, além de explorar HTML e CSS para entender todo o fluxo do desenvolvimento web, do frontend ao backend.
+Tenho me dedicado aos estudos de Java, C# e .NET, além de explorar HTML e CSS para entender todo o fluxo do desenvolvimento web, do frontend ao backend.
 
 Tenho interesse especial por lógica de programação, APIs e estruturas de dados, e estou sempre buscando aplicar o que aprendo em projetos práticos, colaborando e evoluindo um pouco a cada dia.
 
