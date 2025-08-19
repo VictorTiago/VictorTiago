@@ -33,16 +33,16 @@ Tenho interesse especial por lógica de programação, APIs e estruturas de dado
     title="C#"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"
 />
 
 <img
     align="left" 
-    alt="NodeJs" 
-    title="NodeJs"
+    alt=".NET" 
+    title=".NET"
     width="30px" 
     style="padding-right: 10px;" 
-    src ="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
+    src ="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"
 />
 
 <img
@@ -53,4 +53,4 @@ Tenho interesse especial por lógica de programação, APIs e estruturas de dado
     style="padding-right: 10px;" 
     src ="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
 />
-          
+      
